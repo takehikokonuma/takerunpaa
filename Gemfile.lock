@@ -215,7 +215,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (~> 3.3.7)
+  bootstrap-sass (~> 3.3.6)
   byebug
   coffee-rails (~> 4.1.0)
   devise
@@ -224,7 +224,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   omniauth-facebook
-  paperclip (~> 5.0.0)
+  paperclip (~> 5.0.0.beta1)
   pg
   rails (= 4.2.10)
   rails_12factor
@@ -238,4 +238,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
