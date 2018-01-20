@@ -18,8 +18,8 @@ gem 'dropzonejs-rails'
 gem "figaro", "~> 1.1.0"
 
 
-group :production do 
-	gem 'pg'
+group :production do
+	gem 'pg', '~> 0.20'
 	gem 'rails_12factor'
 end
 
